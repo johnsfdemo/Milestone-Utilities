@@ -6,5 +6,9 @@
         <members>CompleteCaseMilestone</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Sample_Case_Creation_Process_with_Entitlement_Assignment</members>
+        <name>Flow</name>
+    </types>
     <version>45.0</version>
 </Package>
