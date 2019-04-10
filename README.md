@@ -15,7 +15,7 @@ I have included a sample process called **Sample Case Creation Process with Enti
 
 ## CompleteCaseMilestone
 
-There is no way to declaratively complete a case milestone using a process or flow in Salesforce. **CompleteCaseMilestone** will allow you to do so from a process or flow. It's often nice to be able to show the case milestone Lightning component automatically updating when a case Status is changed, for example.
+There is no way to declaratively complete a case milestone using a process or flow in Salesforce. **CompleteCaseMilestone** will allow you to do so. It's often nice to be able to show the case milestone Lightning component automatically updating when a case Status is changed in a demo, for example.
 
 **CompleteCaseMilestone** can be included in a process in much the same way as demonstrated above, so let's try a flow this time:
 
