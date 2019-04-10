@@ -4,7 +4,7 @@ This package consists of two invocable Apex methods that can be used either in P
 
 ## AssignCaseEntitlement
 
-A case's EntitlementID can be set in Process Builder using a hard-coded ID, but these will not survive a Trialforce or other type of org-to-org copy. **AssignCaseEntitlement** will allow you to set an entitlement to a case by its name.
+A case's `EntitlementID` can be set in Process Builder using a hard-coded ID, but these will not survive a Trialforce or other type of org-to-org copy. **AssignCaseEntitlement** will allow you to set an entitlement to a case by its name.
 
 I have included a sample process called **Sample Case Creation Process with Entitlement Assignment** but it's very easy to add the action to existing processes:
 
