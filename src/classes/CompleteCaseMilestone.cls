@@ -16,10 +16,10 @@ global without sharing class CompleteCaseMilestone {
     private static final String FAILURE = 'FAILURE';
     
     global class Requests {
-        @InvocableVariable
+        @InvocableVariable(required=true)
         global Id caseId;					// The record ID of the case
         
-        @InvocableVariable
+        @InvocableVariable(required=true)
         global String milestoneName;		// The name of the milestone to complete
     }
     
